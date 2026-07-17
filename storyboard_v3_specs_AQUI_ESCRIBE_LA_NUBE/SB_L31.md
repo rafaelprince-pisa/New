@@ -1,7 +1,7 @@
 # Lámina 31 · Gobierno operativo: nos piden $3,901M contra una meta de pedidos de $3,993M y $704M quedan sin atender
 - **Momento:** M6 · Anexos · A9
 - **Encabezado:** Gobierno operativo: nos piden $3,901M contra una meta de pedidos de $3,993M y $704M quedan sin atender
-  (108 caracteres, cabe en el límite de 110; si el master exige 2 líneas: "Gobierno operativo: nos piden $3,901M contra una meta de pedidos de $3,993M" / "y $704M quedan sin atender". Calibri Light 30-32 pt, `#0F2845`, sin punto final.)
+  (102 caracteres, cabe en el límite de 110; si el master exige 2 líneas: "Gobierno operativo: nos piden $3,901M contra una meta de pedidos de $3,993M" / "y $704M quedan sin atender". Calibri Light 30-32 pt, `#0F2845`, sin punto final.)
 - **So-what subtitle:** Pedidos, cartera y palancas comerciales, cada bloque con su universo declarado; el puente de pedidos a facturación a venta neta está en construcción
 - **Layout:** banda de título 14% + cuerpo 46% en dos columnas 52/48 con gutter 0.15 in (izquierda: universo PEDIDOS con par de barras, desglose del no atendido y tile de sanciones aparte; derecha: cartera con cascada y tabla compacta por cliente) + banda de candidatos VP/PIN 12% + banda de metas y puente 10% + línea de leyenda 3% + footer 15%. Márgenes 0.5 in; 16:9, 13.333 x 7.5 in. Lámina de ANEXO: se salta a demanda (disparador pre-asignado: "gobierno"), no se presenta; misma disciplina visual que el cuerpo, densidad aceptable.
 
