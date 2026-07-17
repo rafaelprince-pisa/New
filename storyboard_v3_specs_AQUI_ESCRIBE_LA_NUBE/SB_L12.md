@@ -13,7 +13,7 @@
 
 ### Zona B — Timeline de la bianual (28%, ancho completo)
 - Micro-título de zona: "Bianual 2027-28: calendario duro" — Calibri bold 12 pt `#0F2845`, texto plano (sin caja).
-- Eyebrow de fuente, Calibri Light 9 pt `#5A6679`: "Calendario de fuente pública (prensa especializada, jul-26)".
+- Eyebrow de fuente, Calibri Light 9 pt UPPERCASE `#5A6679`: "CALENDARIO DE FUENTE PÚBLICA (PRENSA ESPECIALIZADA, JUL-26)".
 - Línea de tiempo horizontal: regla base 1.5 pt `#C5CDD9` que corre de izquierda (jul-26) a derecha (ene-27), con TRES marcadores circulares de 10 px. El tiempo corre de izquierda a derecha; no invertir. Sin flechas decorativas: la línea con marcadores basta.
   - Hito 1 (izquierda): marcador gris `#8A95A8`; texto "27-jul-26 · Hoy, esta junta" — Calibri Light 11 pt `#5A6679`.
   - Hito 2 (centro-izquierda): marcador GOLD `#C5A55A` (ÚNICO elemento gold de la lámina); texto "28-ago-26 · Fallo de la bianual (3,831 claves)" — Calibri bold 12 pt `#0F2845`.
@@ -67,7 +67,7 @@ Diseña una diapositiva corporativa horizontal 16:9 sobre fondo blanco puro, est
 
 BANDA DE TÍTULO (ancho completo): título grande navy oscuro #0F2845 en peso ligero, hasta dos líneas: "El plan se gana surtiendo y cobrando; la bianual no trae un peso en 2026". Debajo, subtítulo en itálica gris azulado #44546A: "Fallo de la bianual el 28-ago-26 y primeros pedidos en enero 2027: el 2S de Gobierno se gana con los contratos vigentes y con la cobranza bajo control". Una línea divisoria delgada gris #E5E9EE.
 
-BANDA DE TIMELINE (ancho completo): arriba, texto plano en negrita navy #0F2845 pequeño: "Bianual 2027-28: calendario duro". Debajo, en gris #5A6679 muy pequeño: "Calendario de fuente pública (prensa especializada, jul-26)". Debajo, una LÍNEA DE TIEMPO horizontal: una regla fina gris #C5CDD9 que corre de izquierda (julio 2026) a derecha (enero 2027) con TRES marcadores circulares; el tiempo corre de izquierda a derecha, sin flechas decorativas:
+BANDA DE TIMELINE (ancho completo): arriba, texto plano en negrita navy #0F2845 pequeño: "Bianual 2027-28: calendario duro". Debajo, en MAYÚSCULAS gris #5A6679 muy pequeño: "CALENDARIO DE FUENTE PÚBLICA (PRENSA ESPECIALIZADA, JUL-26)". Debajo, una LÍNEA DE TIEMPO horizontal: una regla fina gris #C5CDD9 que corre de izquierda (julio 2026) a derecha (enero 2027) con TRES marcadores circulares; el tiempo corre de izquierda a derecha, sin flechas decorativas:
 - Marcador izquierdo: círculo gris #8A95A8, texto en gris #5A6679: "27-jul-26 · Hoy, esta junta".
 - Marcador central-izquierdo: círculo color DORADO #C5A55A (este es el ÚNICO elemento dorado de toda la lámina), texto en negrita navy #0F2845: "28-ago-26 · Fallo de la bianual (3,831 claves)".
 - Marcador derecho: círculo azul #0F4C81, texto en gris muy oscuro #1A2332: "ene-27 · Primeros pedidos".

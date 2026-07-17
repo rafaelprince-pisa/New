@@ -41,7 +41,7 @@
 - El corchete "[plan frente Baxter por cerrar: Martín]" se dibuja literal en gris neutro `#8A95A8`, sin color de alerta ni icono.
 
 ### Zona D — Banda de anotación, una línea (sobre la leyenda)
-- A la izquierda, Calibri Light 11 pt `#1A2332`: "Julio es el mes de la prueba: sin quinto lunes, el run-rate de palancas es la primera lectura real." A la derecha, placeholder literal Calibri Light 10 pt `#8A95A8`: "[Aporte de Hospitales al hueco consolidado: RC]".
+- UNA línea a la izquierda, Calibri Light 11 pt `#1A2332`: "Julio es el mes de la prueba: sin quinto lunes, el run-rate de palancas es la primera lectura real."
 
 ### Zona D2 — Línea de leyenda de placeholders (sobre el pie)
 - Calibri Light 8 pt `#8A95A8`: "Corchetes [ ]: PLACEHOLDER INTERNO, se cierran o se eliminan antes del 27; los responsables no viajan al deck final."
@@ -57,7 +57,7 @@
   - Descubierto ~$10M/mes (57 − 47): en mano; se imprime EXPLÍCITO por decisión vigente (transparencia; decisión provisional #4 del README, sostenida en v7: "descubierto de $10M declarado").
   - Piloto junio $11M / 23% del run-rate objetivo: en mano (plan del canal, jul-26 / storyline v6).
   - Zona C (plan): en mano, salvo la respuesta al frente Baxter/Vantive: por completar [Martín, antes del 27]; coherente con el chip de la lámina 13.
-  - Zona D (aporte de Hospitales al hueco consolidado): placeholder [RC, antes del 22, con gate de que los aportes por segmento sumen el hueco único +$1,596.6M]. NOTA INTERNA: el hueco único del deck es "repetir la venta del 1S" (+$1,596.6M, lámina 19); esta lámina NO imprime esa cifra ni ninguna otra definición de hueco consolidado.
+  - Zona D: sin placeholder de aporte (la banda de aporte al hueco se cortó en las 4 láminas de plan por simetría, consejo 2; el reparto por segmento vive solo en la cascada de la lámina 19). NOTA INTERNA: el hueco único del deck es "repetir la venta del 1S" (+$1,596.6M, lámina 19); esta lámina NO imprime esa cifra ni ninguna otra definición de hueco consolidado.
 - **Notas para el dibujante:**
   - El ÚNICO gold de la lámina es la línea del gap $57M/mes (línea punteada + su rótulo cuentan como un solo elemento). Nada más en gold.
   - NO dibujar un panel o gráfica aparte de dos columnas para base ($429) y meta ($485): viven SOLO como texto en el rótulo de la línea gold (recorte heredado de la lámina modelo; el panel retirado vive en el anexo del canal, A10).
@@ -65,7 +65,8 @@
   - No convertir el waterfall en barra apilada de 7 colores: un solo tono navy `#0F4C81` con labels claros; barra total en `#0F2845` con mayor peso.
   - La anotación "~$10M/mes aún sin palanca asignada" es deliberada y se queda explícita: honestidad declarada, no omitirla ni disfrazarla. NOTA INTERNA: es la transparencia pedida frente a la mesa (Santiago); el nombre no viaja a ninguna zona imprimible.
   - La base ene-may excluye junio a propósito (mes con asterisco, lámina 2): mantener la nota, no cambiar la base a ene-jun.
-  - Los placeholders "[universo del $429M/mes por rotular: Martín/CC; no reconcilia contra el sell-in de la lámina 2]", "[plan frente Baxter por cerrar: Martín]" y "[Aporte de Hospitales al hueco consolidado: RC]" se dibujan como texto gris visible, literales, sin rellenar. Todo corchete con responsable es [PLACEHOLDER INTERNO - kill antes del 27], declarado una sola vez en la línea de leyenda.
+  - Los placeholders "[universo del $429M/mes por rotular: Martín/CC; no reconcilia contra el sell-in de la lámina 2]" y "[plan frente Baxter por cerrar: Martín]" se dibujan como texto gris visible, literales, sin rellenar. Todo corchete con responsable es [PLACEHOLDER INTERNO - kill antes del 27], declarado una sola vez en la línea de leyenda.
+  - La banda de aporte al hueco se cortó en las 4 láminas de plan por simetría (consejo 2); el aporte por segmento vive solo en la cascada de la lámina 19.
   - Sin caja de insight; sin rótulos tipo "PLAN" o "INSIGHT" como etiquetas de caja; micro-títulos de zona en texto plano navy, sin fondo ni marco; sin border-left.
   - Tabular figures en todo número; unidad "$M/mes" declarada en el eje del waterfall; cero em-dash y cero carácter de flecha en texto imprimible.
 
@@ -97,7 +98,7 @@ COLUMNA DERECHA (42%): arriba, texto plano navy oscuro #0F2845 en negrita: "Cóm
 - "Riesgo declarado: las últimas pólizas con IVA deducible vencen en Q4."
 El texto "[plan frente Baxter por cerrar: Martín]" se dibuja literal, en gris neutro claro #8A95A8, sin color de alerta ni icono.
 
-BANDA DE ANOTACIÓN (una línea, ancho completo): a la izquierda, en gris muy oscuro #1A2332: "Julio es el mes de la prueba: sin quinto lunes, el run-rate de palancas es la primera lectura real." A la derecha, en gris claro #8A95A8, dibujado literal: "[Aporte de Hospitales al hueco consolidado: RC]".
+BANDA DE ANOTACIÓN (una línea, ancho completo): a la izquierda, en gris muy oscuro #1A2332: "Julio es el mes de la prueba: sin quinto lunes, el run-rate de palancas es la primera lectura real."
 
 LÍNEA DE LEYENDA (encima del pie), gris claro #8A95A8 muy chica: "Corchetes [ ]: PLACEHOLDER INTERNO, se cierran o se eliminan antes del 27; los responsables no viajan al deck final."
 

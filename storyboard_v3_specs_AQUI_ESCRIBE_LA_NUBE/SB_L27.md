@@ -27,7 +27,7 @@ Los conteos empatan (5 vs 5); ambas columnas pesan visualmente IGUAL (mismo anch
 1. "FC quedó en 90.0% y −0.6% (Q1 ~88%)"
 2. "No nos piden lo suficiente: subatención de contratos [candidato, universo pedidos]"
 3. "Venta perdida de gobierno se deterioró [definición única en cierre: DS/FM]"
-4. "PIN no solicitado ~$859M: planeación de demanda equivocada que no logramos vender [candidato]"
+4. "PIN no solicitado [PIN gobierno por planchar: Hugo/DT]: planeación de demanda equivocada que no logramos vender"
 5. "Cartera: +22% vs cierre 2025 ($4,834M al 30-jun; FC 5.3 meses de venta, Servicios 3.4); IMSS Bienestar −43.1%"
 
 - Negritas: máximo 3-4 palabras en toda la lámina (sugerido: "+17.7 pts" en bien-2 y "90.0%" en faltó-1). No más.
@@ -46,13 +46,13 @@ Línea 0.5 pt `#E5E9EE`; fuente Calibri Light 9 pt itálica `#8A95A8` a la izqui
   - Faltó-1 (90.0% y −0.6%; Q1 ~88%): **en mano** (sell-in cierre jun-26).
   - Faltó-2 (subatención de contratos): **candidato, universo pedidos** (transcript 15-jul: pedidos $3,901M vs meta pedidos $3,993M; el detalle NO se imprime, el renglón viaja con su corchete).
   - Faltó-3 (venta perdida de gobierno): **sin definición única** (conviven 342 / 443.9 / 463 / 595-600; decisión pendiente [DS/FM]). NINGUNA de esas cifras se imprime ni se usa como headline: solo el hecho del deterioro con su corchete.
-  - Faltó-4 (PIN no solicitado ~$859M): **candidato** (lecturas 859/869 por planchar con Hugo/Daniel Torres + comparador 2025 pendiente). Se imprime "~$859M" con corchete, sin comparador y sin porcentaje.
+  - Faltó-4 (PIN no solicitado): **candidato** (lecturas 859/869 por planchar con Hugo/Daniel Torres + comparador 2025 pendiente). NO se imprime ninguna lectura candidata (política del deck, L06/A9): en la lámina viaja SOLO el placeholder "[PIN gobierno por planchar: Hugo/DT]" en gris, sin cifra, sin comparador y sin porcentaje; las lecturas 859/869 viven únicamente en esta nota interna.
   - Faltó-5 (cartera +22%, $4,834M al 30-jun; FC 5.3 meses, Servicios 3.4; Bienestar −43.1%): **en mano** (cartera Finanzas al 30-jun-26, deck del canal: $3,966M al 31-dic-25 a $4,834M, +$868M = +22%; meses cartera FC 5.3 / Servicios 3.4; Bienestar −43.1% de INEFAM por institución).
 - **Notas para el dibujante:**
   - FAMILIA A4-A7: formato idéntico a las láminas 26, 28 y 29 (bandas 13/82/5, mismos anchos, header navy `#0F2845`, zebra blanco/`#F0F3F7` arrancando en blanco, marcador "ANEXO A<n>"). Con 5 vs 5 renglones la retícula debe verse como UNA tabla partida en dos.
   - Deck de Consejo sobrio: SIN caja de insight, sin rotular bloques con "INSIGHT"/"SO WHAT" ni equivalentes. Los headers llevan exactamente "Qué hicimos bien en el 1S" / "Qué nos faltó en el 1S", nada más.
   - SIN gold en esta lámina (no hay cifra pivotal única; el equilibrio de las dos caras es el mensaje). Sin semáforos: nada de verde en "bien" ni rojo en "faltó"; deltas y signos menos en el mismo `#3D4A5F` del texto.
-  - Todos los corchetes se dibujan literales en gris neutro `#8A95A8`: "[unidad y base del share: CC/DS]", "[candidato: 428 notas vs base 25 por cerrar; universo conteos, NO $M]", "[candidato, universo pedidos]", "[definición única en cierre: DS/FM]", "[candidato]". Prohibido rellenarlos, estimarlos o borrarlos. Todo corchete con responsable es [PLACEHOLDER INTERNO - kill antes del 27].
+  - Todos los corchetes se dibujan literales en gris neutro `#8A95A8`: "[unidad y base del share: CC/DS]", "[candidato: 428 notas vs base 25 por cerrar; universo conteos, NO $M]", "[candidato, universo pedidos]", "[definición única en cierre: DS/FM]", "[PIN gobierno por planchar: Hugo/DT]". Prohibido rellenarlos, estimarlos o borrarlos. Todo corchete con responsable es [PLACEHOLDER INTERNO - kill antes del 27].
   - La frase "Servicios compensó el semestre de Gobierno" fue ELIMINADA por el consejo adversarial (contradecía la tesis "los alegres no compensan"): NO reintroducirla en ningún renglón.
   - Si alguna edición posterior introduce la base "17 de 47 delegaciones" del IMSS en esta lámina o en los anexos de gobierno, DEBE llevar el chip "[validar base: el IMSS opera ~35 OOAD: DS]" (hallazgo IQVIA verificado); en esta lámina esa base NO aparece y no debe agregarse.
   - Nivel de venta del segmento NO se imprime aquí ($4,034.3M vive en la lámina 11 del cuerpo); esta lámina no repite cifras de venta base. Los conteos de NC jamás se dibujan como $M ni junto a cifras Gross2Net en un mismo renglón nuevo.

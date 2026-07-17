@@ -14,7 +14,7 @@
 
 ### Zona B — Columna izquierda superior (52% x ~58% del alto): tabla "NADAL por UDN: todos los meses declarados"
 - Micro-título: "NADAL por UDN: todos los meses declarados" — Calibri bold 12 pt `#0F2845` (texto plano, no etiqueta de caja).
-- Eyebrow de universo, Calibri Light 9 pt `#5A6679`: "Plan NADAL · aportación de palancas vs plan · medición sell-in o sell-out declarada por palanca · universo propio, no se cuadra contra el sell-in".
+- Eyebrow de universo, Calibri Light 9 pt UPPERCASE `#5A6679`: "PLAN NADAL · APORTACIÓN DE PALANCAS VS PLAN · MEDICIÓN SELL-IN O SELL-OUT DECLARADA POR PALANCA · UNIVERSO PROPIO, NO SE CUADRA CONTRA EL SELL-IN".
 - Tipo: tabla 5 columnas x 7 filas (header + 5 UDN + Total). Header fondo `#0F2845`, texto blanco Calibri bold 11 pt; body Calibri Light 11 pt `#3D4A5F`; filas alternas blanco / `#F0F3F7`; border inferior por fila 1 px `#E5E9EE`; sin líneas verticales; números a la derecha con tabular figures.
 - Encabezados: "UDN" | "Deseada jun ($M)" | "Real jun ($M)" | "Alcance jun" | "Deseada YTG ($M)".
 - Filas (SIN MAQUILLAR: el 0% de RX se imprime tal cual y la fila NO se omite):
@@ -34,7 +34,7 @@
 ### Zona C — Columna izquierda inferior (52% x ~42% del alto): panel "Palancas de junio: dónde se ganó y dónde no"
 - Panel con fondo `#FAFBFC`, top border 2 pt `#0F4C81` (nunca border-left), border-radius 4-8 px, padding 0.20in.
 - Título del panel: "Palancas de junio: dónde se ganó y dónde no" — Calibri bold 11 pt `#0F2845`.
-- Eyebrow de universo, Calibri Light 9 pt `#5A6679`: "Plan NADAL · palancas de junio, real vs plan ($M)".
+- Eyebrow de universo, Calibri Light 9 pt UPPERCASE `#5A6679`: "PLAN NADAL · PALANCAS DE JUNIO, REAL VS PLAN ($M)".
 - Dos sublistas con lead-in en Calibri bold 10 pt `#0F2845` y renglones Calibri Light 10.5 pt `#3D4A5F`, valores con tabular figures:
   - Lead-in "Sobre plan":
     1. "Ingreso de clientes de farmacias (Expansión): $2.8M contra $0.7M de plan (400%)"
