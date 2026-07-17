@@ -1,14 +1,14 @@
 # Lámina 19 · La ruta al [96] se arma con palancas propias; el hueco queda dimensionado
 - **Momento:** M5 · Ruta y cierre
 - **Encabezado:** La ruta al [96] se arma con palancas propias; el hueco queda dimensionado
-  (TÍTULO VERBATIM aprobado por Rafael: no editarlo; sin punto final. El "[96]" se dibuja literal, con corchetes.)
+  (TÍTULO VERBATIM aprobado por Rafael: no editarlo; sin punto final. El "[96]" se dibuja literal, con corchetes, en Calibri bold dentro del título, como en las láminas 1 y 22.)
 - **So-what subtitle:** Base dura: repetir la venta del 1S ($16,518.5M); cumplir el año exige $18,115.1M en jul-dic, 98.5% del plan del 2S
 - **Layout:** Una sola gráfica dominante (estilo IR roadshow). Seis bandas horizontales: banda de título 15% + banda de universo y micro-título 6% + cascada de ancho completo 51% + banda de leyenda de dos renglones 10% + línea de leyenda de placeholders 4% + footer 14%. Márgenes 0.5in; 16:9, 13.333 x 7.5 in. La cascada ocupa todo el ancho útil (~12.3in): es LA lámina de la ruta al número y vive de una sola gráfica con aire.
 
 ## Zona por zona
 
 ### Zona A — Banda de título (15%)
-- Título: "La ruta al [96] se arma con palancas propias; el hueco queda dimensionado" — Calibri Light 32 pt, `#0F2845`, 1-2 líneas, sin punto final. El "[96]" dentro del título va con corchetes dibujados, en navy (es parte de la frase, no placeholder suelto).
+- Título: "La ruta al [96] se arma con palancas propias; el hueco queda dimensionado" — Calibri Light 32 pt, `#0F2845`, 1-2 líneas, sin punto final. El "[96]" dentro del título va en Calibri bold, corchetes incluidos, en el navy del título (como en las láminas 1 y 22; es parte de la frase, no placeholder suelto).
 - Subtítulo so-what: "Base dura: repetir la venta del 1S ($16,518.5M); cumplir el año exige $18,115.1M en jul-dic, 98.5% del plan del 2S" — Calibri Light 14 pt italic, `#44546A`.
 - Separador: línea 0.5 pt `#E5E9EE` de margen a margen.
 
@@ -53,8 +53,9 @@
   - Destino [96]: placeholder [Dirección General — número del año, exógeno; NO construir nada aguas abajo de él ni del número del 2S].
   - Definición alterna del hueco: ELIMINADA del deck completo por decisión de Rafael (HANDOFF v7 §4.3); esta lámina imprime la única definición vigente y ninguna otra formulación aparece en ningún texto.
 - **Notas para el dibujante:**
-  - El ÚNICO gold de la lámina es la llave del hueco con su rótulo "hueco a cerrar: +$1,596.6M sobre repetir la venta del 1S" (llave + rótulo = un solo elemento). El ancla NADAL va en navy bold `#0F2845`, NO en gold (cambio deliberado contra el banco v2: el gold de esta lámina es el hueco, por decisión v7). El "[96]" JAMÁS va en gold (es placeholder: gris neutro donde va suelto, navy solo dentro del título).
+  - El ÚNICO gold de la lámina es la llave del hueco con su rótulo "hueco a cerrar: +$1,596.6M sobre repetir la venta del 1S" (llave + rótulo = un solo elemento). El ancla NADAL va en navy bold `#0F2845`, NO en gold (cambio deliberado contra el banco v2: el gold de esta lámina es el hueco, por decisión v7). El "[96]" JAMÁS va en gold (es placeholder: gris neutro donde va suelto, navy Calibri bold solo dentro del título).
   - ESCALA: el hueco completo mide ~10% de la altura de la barra base (1,596.6 / 16,518.5); los 7 escalones son delgados, de altura media uniforme, y viven en la parte alta del dibujo. La base y el destino dominan la lámina. No dar altura-por-valor a los escalones: la forma se compromete, el monto no existe.
+  - Colisión de textos en el tramo del hueco (7 escalones en espacio corto por la escala obligatoria): si las etiquetas de los escalones chicos no caben horizontales, usar líneas guía (leader lines) con la etiqueta escalonada arriba/abajo en dos alturas alternadas; jamás encimar texto.
   - Los 7 escalones son siluetas grises `#E5E9EE` SIN valor numérico; el único texto sobre ellos es el ancla NADAL (navy bold) con su "[monto jul-dic: RC]" y el chip colectivo "[montos: RC]" (la fecha "antes del 22" es interna: vive solo en el estado del dato, jamás en tinta). Todos los corchetes se dibujan literales en gris neutro `#8A95A8`, sin ámbar ni rojo ni iconos; prohibido rellenarlos, estimarlos o borrarlos. Todo corchete con responsable es [PLACEHOLDER INTERNO - kill antes del 27].
   - PROHIBIDO en cualquier zona de esta lámina: cualquier definición alterna del hueco o cifra alterna de hueco; ahorros o programas de eficiencia como escalón, disclaimer o mención; nombres propios o fechas de negociación del número; notas de recálculo; promesas en tinta ("va a alcanzar", "vamos a llegar").
   - La referencia de lanzamientos del 1S NO se imprime sobre el escalón "Nuevos productos" (vivía en el banco v2): el +$94.4M es propiedad de la lámina 21 y aquí solo estorba.
@@ -69,7 +70,7 @@ Diseña una diapositiva corporativa horizontal 16:9 sobre fondo blanco puro, est
 
 ESTRUCTURA EN BANDAS: banda de título arriba (~15%); una línea de universo y micro-título (~6%); una cascada (waterfall) de ancho completo al centro (~51%); una banda de leyenda de dos renglones sobre fondo gris claro (~10%); una línea de leyenda muy chica; y un pie delgado abajo (~14%).
 
-BANDA DE TÍTULO (ancho completo): título grande navy oscuro #0F2845 en peso ligero, sin punto final, una o dos líneas: "La ruta al [96] se arma con palancas propias; el hueco queda dimensionado". El "[96]" se dibuja literal con corchetes, en el mismo navy del título. Debajo, en itálica gris azulado #44546A más chico: "Base dura: repetir la venta del 1S ($16,518.5M); cumplir el año exige $18,115.1M en jul-dic, 98.5% del plan del 2S". Línea horizontal fina gris #E5E9EE de margen a margen.
+BANDA DE TÍTULO (ancho completo): título grande navy oscuro #0F2845 en peso ligero, sin punto final, una o dos líneas: "La ruta al [96] se arma con palancas propias; el hueco queda dimensionado". El "[96]" se dibuja literal con corchetes, en NEGRITA (corchetes incluidos) y en el mismo navy del título. Debajo, en itálica gris azulado #44546A más chico: "Base dura: repetir la venta del 1S ($16,518.5M); cumplir el año exige $18,115.1M en jul-dic, 98.5% del plan del 2S". Línea horizontal fina gris #E5E9EE de margen a margen.
 
 LÍNEA DE UNIVERSO: en MAYÚSCULAS con espaciado de letras, gris #5A6679 muy pequeño: "CONSTRUCCIÓN DEL PLAN 2S · PALANCAS PROPIAS · NO SELL-IN HISTÓRICO". Debajo, texto plano en negrita navy #0F2845 pequeño: "De repetir la venta del 1S al compromiso anual".
 
@@ -86,6 +87,7 @@ CASCADA (ancho completo): un waterfall horizontal de izquierda a derecha, eje Y 
 - Centrado sobre el grupo de las siete siluetas (debajo de la llave dorada), UN chip de texto en gris claro #8A95A8, dibujado literal con corchetes: "[montos: RC]". Es el único chip de montos: no pongas un corchete por escalón.
 - BARRA DESTINO sólida navy oscuro #0F2845 con contorno fino gris #C5CDD9, apenas ~10% más alta que la base, rotulada abajo "[96] anual" (el "[96]" en gris claro #8A95A8, es placeholder), con etiqueta en dos renglones: "[96] anual" (el "[96]" en gris claro #8A95A8) y "$18,115.1M jul-dic (98.5% del plan del 2S)" en gris muy oscuro #1A2332.
 Sobre el tramo de los siete escalones (de la base al destino), una llave/corchete horizontal con su leyenda en NEGRITA color DORADO #C5A55A: "hueco a cerrar: +$1,596.6M sobre repetir la venta del 1S". La llave con su rótulo es el ÚNICO elemento dorado de toda la lámina.
+ETIQUETAS DEL TRAMO DEL HUECO: si las etiquetas de los escalones chicos no caben horizontales, usar líneas guía (leader lines) con la etiqueta escalonada arriba/abajo en dos alturas alternadas; jamás encimar texto.
 
 BANDA DE LEYENDA (ancho completo, fondo gris claro #F0F3F7, sin barra lateral de color), dos renglones:
 Renglón 1 en gris muy oscuro #1A2332: "Los aportes por escalón y por segmento deben sumar el hueco completo; el único monto duro entre los escalones hoy es el NADAL."

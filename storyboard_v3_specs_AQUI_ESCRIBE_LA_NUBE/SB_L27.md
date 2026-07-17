@@ -41,7 +41,7 @@ Línea 0.5 pt `#E5E9EE`; fuente Calibri Light 9 pt itálica `#8A95A8` a la izqui
 - **Estado del dato:**
   - Bien-1 (82.5M pzs, #1 en volumen) y bien-3 (Q2 99% junio; IMSS +12.1%): **en mano** (storyline v6; INEFAM-ALTAS por institución).
   - Bien-2 (canasta 105 claves; mercado −31.7%; share de 25.0% a 42.7%, +17.7 pts): **en mano como niveles** (INEFAM-ALTAS ene-may-26, entregas reales al sector público; base 25.0% documentada). La UNIDAD del share (piezas o valor) y la base exacta de la ventana NO están rotuladas en el insumo: por eso el chip "[unidad y base del share: CC/DS]" viaja impreso (fix verificado del consejo adversarial 2: share sin unidad ni base no se cita limpio). AJUSTE v7: se añade el absoluto "de 25.0% a" (mismo fix; 42.7 − 17.7 = 25.0, documentado en el handoff de storyline §3 vigente).
-  - Bien-4 (NC conteo de notas −53%; 428 vs base 2025 por cerrar): **candidato**, impreso con su corchete y RE-ETIQUETADO como conteo. CAVEAT NO NEGOCIABLE: los 428/330/108 del transcript/deck de gobierno se citan como PIEZAS/conteos, NO $M, y jamás se mezclan con Gross2Net. CONFLICTO DE FUENTE FLAGEADO: el EXTRACT del deck de Servicios los lee como $M ($357M aplicados + $71M pendientes = $428M total, −53% vs 2025); el caveat canónico (HANDOFF v7 §3 + README) manda y el renglón queda como conteo candidato. Si no se concilia el 21-jul, el renglón 4 se corta. OJO adicional: en Gross2Net las NC comerciales de Gob FC EMPEORAN (de $103.0M a $111.7M, +8.4%); no cruzar los dos universos en sala.
+  - Bien-4 (NC conteo de notas −53%; 428 vs base 2025 por cerrar): **candidato**, impreso con su corchete y RE-ETIQUETADO como conteo. CAVEAT NO NEGOCIABLE: los 428/330/108 del transcript/deck de gobierno se citan como PIEZAS/conteos, NO $M, y jamás se mezclan con Gross2Net. CONFLICTO DE FUENTE FLAGEADO: el EXTRACT del deck de Servicios los lee como $M ($357M aplicados + $71M pendientes = $428M total, −53% vs 2025); el caveat canónico (HANDOFF v7 §3 + README) manda y el renglón queda como conteo candidato. Si no se concilia el 21-jul, el renglón 4 se corta. OJO adicional: en Gross2Net las NC comerciales y sanciones de Gob FC EMPEORAN (de $103.0M a $111.7M, +8.5%; fuente: EXTRACT_gross2net §3/§6, Gob FC 1S25 vs 1S26); no cruzar los dos universos en sala.
   - Bien-5 (devoluciones −27.2%, de $729.7M a $531.5M = +$198M): **en mano, CANÓNICO** (Gross2Net 16-jul; la palanca real del segmento, misma cifra que imprime la lámina 11 del cuerpo).
   - Faltó-1 (90.0% y −0.6%; Q1 ~88%): **en mano** (sell-in cierre jun-26).
   - Faltó-2 (subatención de contratos): **candidato, universo pedidos** (transcript 15-jul: pedidos $3,901M vs meta pedidos $3,993M; el detalle NO se imprime, el renglón viaja con su corchete).
@@ -82,9 +82,9 @@ COLUMNA DERECHA: encabezado con fondo navy oscuro #0F2845 y texto blanco en negr
 1. "FC quedó en 90.0% y −0.6% (Q1 ~88%)"
 2. "No nos piden lo suficiente: subatención de contratos [candidato, universo pedidos]"
 3. "Venta perdida de gobierno se deterioró [definición única en cierre: DS/FM]"
-4. "PIN no solicitado ~$859M: planeación de demanda equivocada que no logramos vender [candidato]"
+4. "PIN no solicitado [PIN gobierno por planchar: Hugo/DT]: planeación de demanda equivocada que no logramos vender"
 5. "Cartera: +22% vs cierre 2025 ($4,834M al 30-jun; FC 5.3 meses de venta, Servicios 3.4); IMSS Bienestar −43.1%"
-Dentro de esta columna, solo "90.0%" del renglón 1 va en negrita. Los corchetes "[candidato, universo pedidos]", "[definición única en cierre: DS/FM]" y "[candidato]" se dibujan literales, en gris claro #8A95A8, sin color de alerta.
+Dentro de esta columna, solo "90.0%" del renglón 1 va en negrita. Los corchetes "[candidato, universo pedidos]", "[definición única en cierre: DS/FM]" y "[PIN gobierno por planchar: Hugo/DT]" se dibujan literales, en gris claro #8A95A8, sin color de alerta.
 
 Los montos van con dígitos de ancho uniforme y signos + / − explícitos (signo menos tipográfico "−", no guion). NO colorear ningún monto de verde ni rojo: toda la tabla usa el mismo gris de texto, sin semáforo.
 

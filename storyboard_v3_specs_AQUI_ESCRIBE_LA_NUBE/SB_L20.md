@@ -51,7 +51,7 @@
   - Calibrar contra la narrativa "junio bueno, julio hipotecado" para que no choque con el 98.5% del plan del 2S: la salida ya está impresa en el subtítulo (drenaje planeado, Q4 estacional detrás); no agregar texto que reabra el choque.
   - Todos los corchetes se dibujan literales en gris neutro `#8A95A8`, sin ámbar ni rojo ni iconos; prohibido rellenarlos, estimarlos o borrarlos.
   - Sin caja de insight; sin rótulos "RIESGO" / "MECANISMO" como etiquetas visibles; sin border-left; tabla máxima 4 columnas x 3 filas + header, no exceder; si algún texto no cabe, se recorta la hipótesis, nunca la métrica ni la fecha. Cero em-dash y cero carácter de flecha en texto imprimible ("de 120 a 70 días", con palabras). Título sin punto final.
-  - Contenido diferido (no se dibuja; trazabilidad): el texto completo de las 3 tarjetas retiradas, incluido el desglose por cliente del ~$104M (Simi $30M, Nadro $30M, Fanasa $27M, JMP $17M, se imprime solo si CC lo confirma), vive en el banco v2 SB_L32 "Contenido diferido a anexo"; en v7 el detalle del adelanto de junio vive en el anexo A1. FLAG al orquestador: ningún anexo v7 reclama las tarjetas como tales.
+  - Contenido diferido (no se dibuja; trazabilidad): el texto completo de las 3 tarjetas retiradas, incluido el desglose por cliente del ~$104M (Simi $30M, Nadro $30M, Fanasa $27M, JMP $17M), vive en el banco v2 SB_L32 "Contenido diferido a anexo"; en v7 el desglose por cliente vive ÍNTEGRO en el anexo A1 (SB_L23) y en esta lámina solo viaja el total ~$104M [CC]: aquí NO se imprime desglose en ningún caso. FLAG al orquestador: ningún anexo v7 reclama las tarjetas como tales.
 
 ## Instrucciones ChatGPT Images 2
 

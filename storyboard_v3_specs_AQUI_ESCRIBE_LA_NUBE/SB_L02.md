@@ -26,7 +26,7 @@
 | Gobierno · Frasco Cerrado | 4,034.3 | 4,484.9 | 90.0% | −0.6% |
 | Hospitales | 3,054.5 | 3,207.1 | 95.2% | +5.1% |
 | Servicios (Gob Servicios) | 2,219.4 | 2,173.3 | 102.1% | +4.0% |
-| **PiSA (5 mercados)** | **16,518.5** | **17,678.3** | **93.4%** | **+1.5%** |
+| **PiSA (5 mercados)** | **16,518.5** | **17,678.3** | **93.4%** | **+1.5%*** |
 
 - Tratamiento de filas especiales:
   - "Retail (subtotal)": Calibri bold, fondo `#F0F3F7`, border-top 1 pt `#0F4C81`.
@@ -63,6 +63,7 @@
   - NO agregar columna de semáforo (círculos rojo/verde) ni iconos de estatus. El color vive solo en la columna "Crec. vs 1S-2025" (semáforo en deltas, pedido explícito) y el gold en 88.9%.
   - Universos: la tabla es sell-in exclusivamente; prohibido meter cualquier dato de mercado (Knobloch/INEFAM/IQVIA) o el fill rate dentro de la tabla. El fill rate es prosa de la Zona C con su universo propio (cadena de suministro); no conectarlo a la tabla con líneas ni flechas dibujadas.
   - La banda de asterisco (Zona D) es prosa con "*" inicial: PROHIBIDO rotularla ("NOTA", "INSIGHT" o similar) y prohibido darle caja con fondo. No se corta en ninguna versión: es regla dura del v7.
+  - El asterisco de la fila total ("+1.5%*", columna "Crec. vs 1S-2025") refiere a la banda del pie (Zona D): no agregar otra nota al pie ni repetir el símbolo en más celdas.
   - El detalle de junio (desglose Simi/Nadro/Fanasa/JMP, ~$10M one-off de mezclas por paros ABC/OCA, ranking de 36 meses, Q2 +5.9%) NO se imprime en esta lámina: vive íntegro en el anexo A1. Aquí solo la línea de la Zona D.
   - Todo corchete con responsable ("[cerrar cifra: CC]") es [PLACEHOLDER INTERNO - kill antes del 27]: se dibuja literal en gris neutro `#8A95A8` en el borrador y se resuelve antes de la sesión.
   - El símbolo $ no se repite por celda: el header "($M)" lo declara. Signo menos tipográfico "−" (no guion) en los negativos; "+" explícito en positivos.
@@ -74,7 +75,7 @@
 ```
 Diseña una diapositiva corporativa horizontal 16:9 sobre fondo blanco puro, estilo flat de consultoría: sin gradientes, sin sombras infladas, sin fotos de stock, sin logos, sin emojis, sin iconos de color, sin círculos de semáforo. Tipografía sans-serif limpia y ligera (tipo Calibri Light); negrita solo donde se indique; TODOS los números en figuras tabulares alineados a la derecha. Seis bandas horizontales apiladas; el centro lo domina una tabla de ancho completo.
 
-BANDA 1 (16% superior, título): título grande navy #0F2845 en peso ligero, con "93.4%" en negrita: "El 1S cerró en 93.4%; el faltante vive en Farmacias y en el frasco cerrado". Debajo, subtítulo en itálica gris azulado #44546A: "Sell-in 1S-2026 contra meta por canal: $16,518.5M de $17,678.3M (+1.5% vs 1S-2025); Hospitales y Servicios suman sin compensar". Una línea divisoria delgada gris #E5E9EE.
+BANDA 1 (16% superior, título): título grande navy #0F2845 en peso ligero (el título puede ocupar dos líneas), con "93.4%" en negrita: "El 1S cerró en 93.4%; el faltante vive en Farmacias y en el frasco cerrado". Debajo, subtítulo en itálica gris azulado #44546A: "Sell-in 1S-2026 contra meta por canal: $16,518.5M de $17,678.3M (+1.5% vs 1S-2025); Hospitales y Servicios suman sin compensar". Una línea divisoria delgada gris #E5E9EE.
 
 BANDA 2 (48%, tabla de desempeño por canal, ancho completo): arriba de la tabla, una etiqueta muy pequeña en gris #5A6679: "Sell-in PiSA · cierre jun-26 · 5 mercados". Encabezado de tabla con fondo navy #0F2845 y texto blanco en negrita; 5 columnas: "Canal (por segmento)" (alineada a la izquierda) | "Venta ($M)" (derecha) | "Meta ($M)" (derecha) | "Cumplimiento" (derecha) | "Crec. vs 1S-2025" (derecha). Cuerpo en gris #3D4A5F, filas alternando blanco y gris muy claro #F0F3F7, con línea inferior fina gris #E5E9EE por fila, SIN líneas verticales. Filas en este orden:
 Retail · Farmacias | 2,958.0 | 3,327.8 | 88.9% | −2.2%
@@ -84,7 +85,7 @@ Retail (subtotal) | 7,210.2 | 7,813.0 | 92.3% | +0.4%   (esta fila en negrita, f
 Gobierno · Frasco Cerrado | 4,034.3 | 4,484.9 | 90.0% | −0.6%
 Hospitales | 3,054.5 | 3,207.1 | 95.2% | +5.1%
 Servicios (Gob Servicios) | 2,219.4 | 2,173.3 | 102.1% | +4.0%
-PiSA (5 mercados) | 16,518.5 | 17,678.3 | 93.4% | +1.5%   (fila total en negrita, fondo gris #F0F3F7, con línea superior gruesa navy #0F2845)
+PiSA (5 mercados) | 16,518.5 | 17,678.3 | 93.4% | +1.5%*   (fila total en negrita, fondo gris #F0F3F7, con línea superior gruesa navy #0F2845; el asterisco de "+1.5%*" refiere a la banda de asterisco del pie)
 Color de la columna "Crec. vs 1S-2025" (semáforo solo aquí): los valores negativos "−2.2%" y "−0.6%" en rojo #C00000; todos los positivos "+1.8%, +3.4%, +0.4%, +5.1%, +4.0%, +1.5%" en verde #2E7D4F. Usa el signo menos tipográfico "−", no un guion. La columna "Cumplimiento" va toda en gris muy oscuro neutro #1A2332 SIN color, EXCEPTO una única celda pivotal: el "88.9%" de la fila "Retail · Farmacias" va en negrita color dorado #C5A55A (es el único elemento dorado de toda la lámina).
 
 BANDA 3 (7%, una sola línea de texto, sin caja): en gris muy oscuro #1A2332 con solo "95-96%" en negrita navy #0F2845: "La cadena de suministro entregó su parte: fill rate de 95-96% sostenido seis semanas; el reto del 2S se movió del abasto a la demanda."

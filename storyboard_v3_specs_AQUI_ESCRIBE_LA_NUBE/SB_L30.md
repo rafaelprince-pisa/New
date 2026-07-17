@@ -76,6 +76,7 @@
   - Números que NO se "corrigen": la Δ reclasificada es +$58.7M; el nivel 2 es +$31.3M; el nivel 3 es +$31.8M. Se imprimen con su línea de conciliación, no se homologan entre sí ni contra las restas visibles.
   - NOTA INTERNA (no imprimible): el cuerpo compacta este puente en la lámina 8 (con tile de mercado y el segundo aumento); el detalle nominal del top-5 también vive en la lámina 9 del cuerpo como panel de defensa. Esta lámina es la versión de auditoría: se salta a demanda, no se presenta.
   - NOTA INTERNA (no imprimible): si el orquestador prefiere silencio total sobre el −$107.3M, se mata la nota de método del Bloque 1 sin tocar nada más; el encargo lo permite solo con la etiqueta pre-arista, que ya lleva.
+  - Excepción declarada: 4 objetos de gráfica por ser anexo técnico de método; el cuerpo mantiene 1-3.
   - Sin caja de insight, sin rótulos INSIGHT/SO WHAT, sin border-left, sin gradientes, sin emojis; título sin punto final. Cero verde en toda la lámina.
 
 ## Instrucciones ChatGPT Images 2
