@@ -6,7 +6,11 @@
 
 ## 0. UBICACIÓN DE LOS ARCHIVOS (mapa nube/local — leer antes que nada)
 
-**EN LA NUBE (OneDrive corporativo PiSA, carpeta `Consejo27jul_nube/`; ruta local sincronizada: `~/Library/CloudStorage/OneDrive-LABORATORIOSPISAS.A.DEC.V/Consejo27jul_nube/`):** el corpus COMPLETO del paso 6 — 64 archivos, 2.3MB, todo texto:
+**EN LA NUBE — DOS ESPEJOS IDÉNTICOS del corpus completo del paso 6 (79 archivos, 2.6MB, todo texto):**
+- **Git (la fuente para la sesión de Claude Code en la nube): repo privado `rafaelprince-pisa/New`, rama `main`** (git@github.com:rafaelprince-pisa/New.git). En la raíz está `LEEME_REPO.md` con el boot. **La sesión de nube escribe sus 38 specs en `storyboard_v3_specs_AQUI_ESCRIBE_LA_NUBE/` y las regresa por COMMIT+PUSH**; la sesión local hace `git pull` para los pasos 7-8.
+- **OneDrive corporativo PiSA**, carpeta `Consejo27jul_nube/` (ruta local sincronizada: `~/Library/CloudStorage/OneDrive-LABORATORIOSPISAS.A.DEC.V/Consejo27jul_nube/`) — espejo de respaldo/lectura; si trabajas desde claude.ai chat con conector, esta es tu fuente.
+
+Contenido (idéntico en ambos espejos):
 - Raíz: este handoff · `PROPUESTA_rediseno_v7_2026-07-16.md` (la biblia) · `APRENDIZAJES_y_metodo.md` · `README_dibujante.md` (reglas/caveats/calibraciones) · los 2 veredictos de consejo · `SINTESIS_integracion_inputs_2026-07-16.md` · `Storyboard_v2_consolidado_2026-07-16.md` · `Research_Consejo_27jul_2026-07-10.md` · `MEGADOC_Consejo_27jul_Fuentes_2026-07-10.md` · `build_storyline_v6.py` (léelo como documento).
 - Raíz (complementos): `HANDOFF_storyline_consejo_27jul_2026-07-10_0725.md` (VIGENTE solo en §3 números sell-in y §7 trampas de los cuatro universos; su §5 estructura está STALE) · las 3 minutas de revisiones del 8-jul + `Consejo27jul_Sintesis_Revisiones_Jun26_2026-07-09.md` (narrativas por segmento) · `CONTEXTO_CLAUDE_global.md` (las reglas de trabajo y calibración de Rafael: síguelas como si fueran el CLAUDE.md de la sesión).
 - `storyboard_v2_specs/` — las 35 specs individuales (el banco de material del campo "absorbe").
