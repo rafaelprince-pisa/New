@@ -26,10 +26,10 @@
 - Línea de valor bajo la gráfica, Calibri Light 10 pt `#5A6679`: "Valor anual del mercado $5,631M: PiSA $1,448M (26%) vs Baxter/Vantive $4,182M (74%)."
 
 *B2 — Cuatro líneas DP (derecha, ~40% del panel), Calibri Light 10.5 pt `#3D4A5F`, viñeta simple:*
-  1. "Baxter es 27-49% más caro por bolsa; el precio no es el foso."
-  2. "El foso real es la logística: entrega mensual a domicilio en todo el país" — esta línea completa en gold `#C5A55A` bold (ÚNICO elemento gold de la lámina).
+  1. "Baxter es 27-49% más caro por bolsa."
+  2. "El foso está en la logística de entrega mensual a domicilio en todo el país, no en la tarifa" — esta línea completa en gold `#C5A55A` bold (ÚNICO elemento gold de la lámina).
   3. "IMSS Bienestar e ISSSTE, hoy 100% Baxter/Vantive: espacio de entrada, limitado por restricciones técnicas y cobranza."
-  4. "El rival renal ya no es Baxter: es Vantive-Carlyle, con capital fresco (USD 70M en Cuernavaca)."
+  4. "El rival renal hoy es Vantive-Carlyle, la antigua división renal de Baxter, con capital fresco (USD 70M en Cuernavaca)."
 
 ### Zona C — Panel Hemodiálisis compacto (fila inferior izquierda, ~6.0 in)
 - Encabezado de panel: "Hemodiálisis" — Calibri bold 13 pt `#0F2845`, texto plano. Dos líneas Calibri Light 10.5 pt `#3D4A5F`:
@@ -39,13 +39,13 @@
 ### Zona D — Panel Mezclas compacto (fila inferior derecha, ~6.0 in)
 - Encabezado de panel: "Mezclas (oncología y nutrición)" — Calibri bold 13 pt `#0F2845`, texto plano. Dos líneas Calibri Light 10.5 pt `#3D4A5F`:
   - "Nutrición: somos únicos. En Onco el rival ya está adentro: FESA/COI (12 sedes), consorcios y oncólogos con clínicas propias."
-  - "Precio de mezclado onco por arriba de la competencia (~$831 vs ~$600 por mezcla): sostiene margen hoy, es fragilidad mañana; riesgo gestionado."
+  - "Precio de mezclado onco por arriba de la competencia (~$831 vs ~$600 por mezcla)."
 
 ### Zona E — Footer (8%)
 - Línea 0.5 pt `#E5E9EE`; fuente 9 pt itálica `#8A95A8` a la izquierda; "PiSA Confidencial | 17" a la derecha.
 
-- **Mensaje que manda la lámina:** Servicios no compite en un mercado clásico: en diálisis peritoneal pública el 69% de los pacientes está con Baxter/Vantive (espacio y amenaza a la vez) y la defensa de PiSA es logística, no de precio; la hemodiálisis está relativamente blindada por infraestructura; en mezclas onco el rival ya opera adentro (FESA/COI) y el precio alto es margen hoy y fragilidad mañana.
-- **Fuente (pie de lámina):** Fuente: dimensionamiento del canal Servicios sobre licitaciones del sector público 2025-2026 (pacientes/año DP; no es mercado auditado); SANEFRO corte jun-26; sell-in cierre jun-26 (crecimientos por línea); investigación externa jul-26 (Vantive-Carlyle)
+- **Mensaje que manda la lámina:** Servicios no compite en un mercado clásico: en diálisis peritoneal pública el 69% de los pacientes está con Baxter/Vantive (espacio y amenaza a la vez) y la defensa de PiSA es logística, no de precio; la hemodiálisis está relativamente blindada por infraestructura; en mezclas onco el rival ya opera adentro (FESA/COI) y el precio de mezclado está por arriba de la competencia.
+- **Fuente (pie de lámina):** Fuente: dimensionamiento del canal Servicios sobre licitaciones del sector público 2025-2026 (pacientes/año DP; no es mercado auditado); SANEFRO corte jun-26; sell-in cierre jun-26 (crecimientos por línea); investigación externa jul-26 (Vantive-Carlyle); cifras en $M redondeadas: la suma de las partes difiere del total en $1M
 - **Estado del dato:**
   - Zona B1 (sizing DP en pacientes y en $): en mano (deck del canal Servicios; cuadres internos verificados: 38,000 + 7,800 + 6,100 + 1,500 = 53,400; 16,000 + 550 = 16,550; 16,550 / 53,400 = 31%; 36,850 / 53,400 = 69%).
   - Zona B2 línea 1 (Baxter 27-49% más caro por bolsa): en mano (deck del canal, tabla DP IMSS: Baxter vs PiSA +49% y +27% en DPCA, +47% y +30% en DPA; el rango 27-49% del propio deck se sostiene).
@@ -57,8 +57,9 @@
   - El panel DP domina la lámina; los dos paneles inferiores son secundarios y respiran (dos líneas cada uno, no más). No reducir tipografía por debajo de 9.5 pt.
   - ÚNICO gold: la línea del foso logístico en B2. El resto de énfasis en navy bold puntual.
   - La gráfica B1 es SOLO pacientes; el valor en $ vive en la línea de texto bajo la gráfica. No mezclar pacientes y pesos en una misma barra ni en un mismo eje.
+  - Redondeo declarado, no corregido (regla del proyecto): en la línea de valor, PiSA $1,448M + Baxter/Vantive $4,182M = $5,630M contra el total impreso $5,631M; NO ajustar cifras, la declaración viaja en la línea de fuente ("cifras en $M redondeadas: la suma de las partes difiere del total en $1M").
   - Rojo/verde: NO usar en esta lámina. Las anotaciones "cobranza" y "restricciones técnicas" van en gris `#5A6679`, no en rojo: no son deltas.
-  - "Baxter/Vantive" siempre con esa grafía en la serie y en las líneas (las plantas renales son de Vantive-Carlyle desde ene-25); la única excepción deliberada es la línea 4, que contrasta "ya no es Baxter: es Vantive-Carlyle".
+  - "Baxter/Vantive" siempre con esa grafía en la serie y en las líneas (las plantas renales son de Vantive-Carlyle desde ene-25); la única excepción deliberada es la línea 4, que nombra "Vantive-Carlyle, la antigua división renal de Baxter".
   - Kener NO aparece en esta lámina y los tres frentes de Hospitales NO se importan aquí. FESA/COI se imprime con esa grafía exacta (decisión v7).
   - Prohibido "no hay competencia" o "sin competencia"; el registro es "somos únicos" (nutrición) y "el rival ya está adentro".
   - SANEFRO ~$1,005M es venta ANUAL y el +13% es del 1S sell-in: no ponerlos en una misma gráfica ni sumarlos; van como texto en líneas separadas tal como está especificado.
@@ -85,10 +86,10 @@ FILA SUPERIOR: un panel ancho. Encabezado en texto plano navy oscuro #0F2845 neg
   5. "Otros 1,500" con tramo PiSA "550 (37%)" y tramo Baxter/Vantive "950 (63%)"; las etiquetas de esta barra van FUERA (los dos tramos son chicos).
   Proporciones: la barra 2 mide aproximadamente el 71% de la barra 1; las barras 3 y 4 son cortas (alrededor de un séptimo y un noveno de la 1) y la 5 es la más corta. Bajo la gráfica, texto pequeño gris #5A6679: "Valor anual del mercado $5,631M: PiSA $1,448M (26%) vs Baxter/Vantive $4,182M (74%)."
   Cuatro líneas a la derecha, con viñeta simple, en gris #3D4A5F (verbatim):
-  - "Baxter es 27-49% más caro por bolsa; el precio no es el foso."
-  - "El foso real es la logística: entrega mensual a domicilio en todo el país" (esta línea entera en color dorado #C5A55A y negrita: es el ÚNICO elemento dorado de toda la lámina).
+  - "Baxter es 27-49% más caro por bolsa."
+  - "El foso está en la logística de entrega mensual a domicilio en todo el país, no en la tarifa" (esta línea entera en color dorado #C5A55A y negrita: es el ÚNICO elemento dorado de toda la lámina).
   - "IMSS Bienestar e ISSSTE, hoy 100% Baxter/Vantive: espacio de entrada, limitado por restricciones técnicas y cobranza."
-  - "El rival renal ya no es Baxter: es Vantive-Carlyle, con capital fresco (USD 70M en Cuernavaca)."
+  - "El rival renal hoy es Vantive-Carlyle, la antigua división renal de Baxter, con capital fresco (USD 70M en Cuernavaca)."
 
 FILA INFERIOR IZQUIERDA: panel con encabezado en texto plano navy oscuro #0F2845 negrita: "Hemodiálisis". Dos líneas en gris #3D4A5F (verbatim):
   - "SANEFRO: 12 clínicas en 6 estados, 4,110 pacientes, ~$1,005M anuales."
@@ -96,9 +97,9 @@ FILA INFERIOR IZQUIERDA: panel con encabezado en texto plano navy oscuro #0F2845
 
 FILA INFERIOR DERECHA: panel con encabezado en texto plano navy oscuro #0F2845 negrita: "Mezclas (oncología y nutrición)". Dos líneas en gris #3D4A5F (verbatim):
   - "Nutrición: somos únicos. En Onco el rival ya está adentro: FESA/COI (12 sedes), consorcios y oncólogos con clínicas propias."
-  - "Precio de mezclado onco por arriba de la competencia (~$831 vs ~$600 por mezcla): sostiene margen hoy, es fragilidad mañana; riesgo gestionado."
+  - "Precio de mezclado onco por arriba de la competencia (~$831 vs ~$600 por mezcla)."
 
-PIE (ancho completo): línea fina gris claro #E5E9EE arriba. A la izquierda, itálica gris #8A95A8 pequeña: "Fuente: dimensionamiento del canal Servicios sobre licitaciones del sector público 2025-2026 (pacientes/año DP; no es mercado auditado); SANEFRO corte jun-26; sell-in cierre jun-26 (crecimientos por línea); investigación externa jul-26 (Vantive-Carlyle)". A la derecha: "PiSA Confidencial | 17".
+PIE (ancho completo): línea fina gris claro #E5E9EE arriba. A la izquierda, itálica gris #8A95A8 pequeña: "Fuente: dimensionamiento del canal Servicios sobre licitaciones del sector público 2025-2026 (pacientes/año DP; no es mercado auditado); SANEFRO corte jun-26; sell-in cierre jun-26 (crecimientos por línea); investigación externa jul-26 (Vantive-Carlyle); cifras en $M redondeadas: la suma de las partes difiere del total en $1M". A la derecha: "PiSA Confidencial | 17".
 
 Reglas estrictas: ningún carácter de flecha en ningún texto; cero emojis; sin rótulos de caja tipo INSIGHT, SO WHAT o HIGHLIGHTS; sin borde izquierdo en ningún bloque; sin verde celebratorio en cifras propias y sin rojo en esta lámina (las anotaciones "cobranza" y "restricciones técnicas" van en gris, no son deltas); un solo elemento dorado (la línea del foso logístico); la gráfica es SOLO de pacientes, no meter pesos dentro de las barras; todo el texto en español con acentos correctos; el título sin punto final; números con figuras tabulares; los corchetes de placeholder, si los hubiera, se dibujan literales en gris neutro #8A95A8.
 ```

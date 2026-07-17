@@ -60,7 +60,7 @@
 
 ### Zona G — Banda de foso y riesgo (9%, dos líneas)
 - Bloque a todo lo ancho, fondo `#FAFBFC`, top border 1 pt `#C5CDD9` (nunca border-left), sin rótulo de caja. Dos líneas Calibri Light 11 pt `#1A2332`:
-  - Línea 1: "El foso no es el precio (Baxter/Vantive cobra entre 27% y 49% más por bolsa): es la manufactura estéril más la logística que entrega cada mes en el domicilio de cada paciente, incluso en zonas de difícil acceso."
+  - Línea 1: "El foso está en la manufactura estéril y la logística de última milla que entrega cada mes en el domicilio de cada paciente, incluso en zonas de difícil acceso (Baxter/Vantive cobra entre 27% y 49% más por bolsa)."
   - Línea 2: "Riesgo tecnológico, dicho por nosotros: adelantar la renovación de equipos de diálisis antes de que llegue el jugador chino; que no se repita el espejo de Mindray en bombas de infusión."
 
 ### Zona H — Línea de leyenda + footer (3% + 13%)
@@ -132,7 +132,7 @@ PANEL 3 (derecha), encabezado: "ISSSTE · espacio con barrera técnica". Dentro,
 LÍNEA "OTROS" (ancho completo, una sola línea, sin caja), gris #3D4A5F: "Otros: 1,500 pacientes / $180M al año. ISSSEMYM (950 pacientes, con Baxter/Vantive; restricciones: icodextrina y cicladora con comunicación remota) y cuentas PiSA: Pemex 220 · H. Civil GDL 128 · SESEQ 123 · SEMAR 74 · IMIEM 5."
 
 BANDA DE FOSO Y RIESGO (ancho completo): fondo gris muy claro #FAFBFC con una línea superior fina gris #C5CDD9 (arriba, nunca lateral), sin rótulo de caja, dos líneas en gris muy oscuro #1A2332:
-Línea 1: "El foso no es el precio (Baxter/Vantive cobra entre 27% y 49% más por bolsa): es la manufactura estéril más la logística que entrega cada mes en el domicilio de cada paciente, incluso en zonas de difícil acceso."
+Línea 1: "El foso está en la manufactura estéril y la logística de última milla que entrega cada mes en el domicilio de cada paciente, incluso en zonas de difícil acceso (Baxter/Vantive cobra entre 27% y 49% más por bolsa)."
 Línea 2: "Riesgo tecnológico, dicho por nosotros: adelantar la renovación de equipos de diálisis antes de que llegue el jugador chino; que no se repita el espejo de Mindray en bombas de infusión."
 
 LÍNEA DE LEYENDA, gris claro #8A95A8 muy chica: "Corchetes [ ]: PLACEHOLDER INTERNO, se cierran o se eliminan antes del 27; los responsables no viajan al deck final."

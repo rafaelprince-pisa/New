@@ -12,7 +12,7 @@
 - Separador: línea 0.5 pt `#E5E9EE`.
 
 ### Zona B — La tablita de los cuatro negocios (50%)
-- Línea de universos sobre la tabla, Calibri Light 9 pt UPPERCASE `#5A6679`: "VENTA Y CUMPLIMIENTO: SELL-IN PISA · EBITDA Y MÁRGENES: P&L FINANZAS (V18 + SPLIT GROSS2NET) · 1S26 VS 1S25". (Casing del eyebrow todo en mayúsculas; en cualquier otro texto el casing es "PiSA".)
+- Línea de universos sobre la tabla, Calibri Light 9 pt UPPERCASE `#5A6679`: "VENTA Y CUMPLIMIENTO: SELL-IN PiSA · EBITDA Y MÁRGENES: P&L FINANZAS (V18 + SPLIT GROSS2NET) · 1S26 VS 1S25". (El eyebrow va en mayúsculas, pero la marca conserva su casing "PiSA".)
 - Tabla: 6 filas de datos por 7 columnas. Header: fondo `#0F2845`, texto blanco Calibri bold 11 pt. Body: Calibri Light 11 pt `#3D4A5F`, filas alternas blanco / `#F0F3F7`, border inferior por fila 1 px `#E5E9EE`, sin líneas verticales, border externo 0.5 pt `#C5CDD9`. Tabular figures en toda celda numérica, alineadas a la derecha; "−" tipográfico, "+" explícito. Decimales consistentes por columna.
 - Columnas: "Segmento" (izquierda) | "% venta 1S" (derecha) | "Cumpl. 1S" (derecha) | "Crec. PiSA" (derecha) | "EBITDA 1S26 ($M · %)" (derecha) | "Margen 1S25" (derecha) | "% del EBITDA total" (derecha). SIN columna de crecimiento del mercado (decisión v7: el −5% sin fuente no vive en esta tabla).
 
@@ -71,7 +71,7 @@
   - Los corchetes de los bullets ("[alcance y denominador del [96]: RC/CC/Rafael]", "[bendición Finanzas al split: VJ]") se dibujan LITERALES en gris neutro `#8A95A8`, sin ámbar ni rojo ni iconos. Son PLACEHOLDER INTERNO - kill antes del 27. Prohibido rellenarlos, estimarlos o borrarlos.
   - El "[96]" del bullet 1 va a secas, sin unidad: la unidad del [96] se declara SOLO en la lámina 1.
   - La línea 2 de la Zona C es la línea de manejo del salto de margen (fix Brunswick): se imprime tal cual; el arco completo del margen por año (pico 2023, valle 2025) vive SOLO en el anexo A13 y NO se imprime aquí.
-  - Cero carácter de flecha y cero em-dash en texto imprimible; título sin punto final; español con acentos; casing "PiSA" único (el eyebrow en mayúsculas es la única excepción tipográfica).
+  - Cero carácter de flecha y cero em-dash en texto imprimible; título sin punto final; español con acentos; casing "PiSA" único (también dentro del eyebrow en mayúsculas).
 
 ## Instrucciones ChatGPT Images 2
 
@@ -80,7 +80,7 @@ Diseña una diapositiva corporativa horizontal 16:9 sobre fondo blanco puro, est
 
 BANDA DE TÍTULO (arriba, ~16%): título grande navy #0F2845 en peso ligero, hasta dos líneas: "Cuatro negocios con márgenes muy distintos: Hospitales rinde 39.2% de EBITDA y Gobierno FC 12.0%". Debajo, itálica gris azulado #44546A: "La venta se reparte 43.6 / 24.4 / 18.5 / 13.4; Farma MX cerró el 1S con 23.5% de EBITDA ($3,879.6M) contra 19.7% en 1S-2025". Línea fina gris #E5E9EE de margen a margen.
 
-LÍNEA DE UNIVERSOS (una línea chica en MAYÚSCULAS, gris #5A6679, justo encima de la tabla): "VENTA Y CUMPLIMIENTO: SELL-IN PISA · EBITDA Y MÁRGENES: P&L FINANZAS (V18 + SPLIT GROSS2NET) · 1S26 VS 1S25".
+LÍNEA DE UNIVERSOS (una línea chica en MAYÚSCULAS, gris #5A6679, justo encima de la tabla): "VENTA Y CUMPLIMIENTO: SELL-IN PiSA · EBITDA Y MÁRGENES: P&L FINANZAS (V18 + SPLIT GROSS2NET) · 1S26 VS 1S25". La marca se escribe "PiSA" exactamente así, incluso dentro de esta línea en mayúsculas.
 
 TABLA (centro, ancho completo, ~50% de la altura). Encabezado con fondo navy #0F2845 y texto blanco negrita; 7 columnas: "Segmento" (izquierda) | "% venta 1S" (derecha) | "Cumpl. 1S" (derecha) | "Crec. PiSA" (derecha) | "EBITDA 1S26 ($M · %)" (derecha) | "Margen 1S25" (derecha) | "% del EBITDA total" (derecha). Cuerpo gris #3D4A5F, filas alternando blanco y gris muy claro #F0F3F7, línea inferior fina gris #E5E9EE por fila, SIN líneas verticales. Filas en este orden:
 Retail | 43.6% | 92.3% | +0.4% | 2,479.1 · 34.4% | 31.2% | 63.9%
