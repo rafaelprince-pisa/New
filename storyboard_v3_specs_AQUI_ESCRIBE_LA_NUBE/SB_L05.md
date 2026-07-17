@@ -12,7 +12,7 @@
 - Separador: línea 0.5 pt `#E5E9EE` de margen a margen.
 
 ### Zona B — Universo y micro-título (6%)
-- Eyebrow de universo, Calibri Light 9 pt UPPERCASE con tracking, `#5A6679`: "SELL-IN PISA · MATRIZ CONSOLIDADA DOWNTRADING FINAL 16-JUL · 1S26 VS 1S25 · CONTROL 0". (El casing todo en mayúsculas es la única excepción tipográfica; en cualquier otro texto el casing es "PiSA".)
+- Eyebrow de universo, Calibri Light 9 pt UPPERCASE con tracking, `#5A6679`: "SELL-IN PiSA · MATRIZ CONSOLIDADA DOWNTRADING FINAL 16-JUL · 1S26 VS 1S25 · CONTROL 0". (El eyebrow va en mayúsculas, pero la marca conserva su casing "PiSA".)
 - Micro-título de zona, Calibri bold 12 pt `#0F2845`, texto plano sin caja: "El puente del año en ocho componentes".
 
 ### Zona C — Waterfall rector TOTAL PiSA (54%, ancho completo). LA gráfica de la lámina.
@@ -73,7 +73,7 @@ Diseña una diapositiva corporativa horizontal 16:9 sobre fondo blanco puro, est
 
 BANDA DE TÍTULO (arriba, ~16%): título grande navy #0F2845 en peso ligero, una o dos líneas: "El crecimiento vino de lanzamientos, terceros y servicios; el portafolio core quedó plano". Debajo, itálica gris azulado #44546A: "Puente 1S-2025 a 1S-2026: +$239.3M de sell-in oficial; la vista reclasificada +$272.1M concilia en la línea gris; el core aporta +$51.7M de precio, volumen y mix". Línea fina gris #E5E9EE de margen a margen.
 
-BANDA DE UNIVERSO (una línea chica): en MAYÚSCULAS con espaciado de letras, gris #5A6679: "SELL-IN PISA · MATRIZ CONSOLIDADA DOWNTRADING FINAL 16-JUL · 1S26 VS 1S25 · CONTROL 0". Debajo, texto plano en negrita navy #0F2845 pequeño: "El puente del año en ocho componentes".
+BANDA DE UNIVERSO (una línea chica): en MAYÚSCULAS con espaciado de letras, gris #5A6679: "SELL-IN PiSA · MATRIZ CONSOLIDADA DOWNTRADING FINAL 16-JUL · 1S26 VS 1S25 · CONTROL 0" (la marca se escribe "PiSA" exactamente así dentro de la línea en mayúsculas). Debajo, texto plano en negrita navy #0F2845 pequeño: "El puente del año en ocho componentes".
 
 GRÁFICA CENTRAL (~54% de la altura, TODO el ancho útil): una gráfica de cascada (waterfall) con conectores punteados finos gris #C5CDD9, unidad "$M" en el eje, etiqueta de valor con signo sobre cada barra y nombre debajo de cada barra. El eje vertical está TRUNCADO: arranca en 15,800 (no en cero) y el corte se marca con una doble raya diagonal de quiebre en la base de las dos barras ancla, más una nota de eje chica en gris #8A95A8: "eje truncado en $15,800M". Barras de izquierda a derecha:
 1. Barra ancla "1S-2025" = "16,279.2": navy oscuro #0F2845, alta.

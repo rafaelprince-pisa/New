@@ -21,7 +21,7 @@
 - Kicker de zona: "El mercado cae; PiSA casi plano" — Calibri bold 12 pt `#0F2845`.
 - DOS tiles KPI lado a lado (50/50, gutter 0.15in), cada uno con SU eyebrow de universo. NO son una gráfica: son tiles de texto, y NO se conectan entre sí con líneas, llaves ni flechas (universos distintos).
   - Tile izquierdo. Eyebrow: "MERCADO · INEFAM GENÉRICOS GOBIERNO · VALOR · ENE-MAY-26" — Calibri Light 9 pt UPPERCASE `#5A6679`. Valor: "−3.8%" — Calibri bold 28 pt `#5A6679` (gris: es la cancha, no nuestra cifra), tabular figures.
-  - Tile derecho. Eyebrow: "PISA · SELL-IN GOB FC · 1S26 VS 1S25" — Calibri Light 9 pt UPPERCASE `#5A6679`. Valor: "−0.6%" — Calibri bold 28 pt `#0F2845` (navy), tabular figures.
+  - Tile derecho. Eyebrow: "PiSA · SELL-IN GOB FC · 1S26 VS 1S25" (la marca conserva su casing "PiSA" dentro del eyebrow en mayúsculas) — Calibri Light 9 pt UPPERCASE `#5A6679`. Valor: "−0.6%" — Calibri bold 28 pt `#0F2845` (navy), tabular figures.
 - Línea de lectura bajo los dos tiles (una sola línea, ancho completo), Calibri Light 10.5 pt `#5A6679`: "Universos distintos, mismo signo: INEFAM mide genéricos de gobierno en valor (ene-may); PiSA es sell-in de Gob FC del 1S. El par se lee lado a lado, no se divide."
 
 ### Zona D — Footer (14%)
@@ -59,7 +59,7 @@ Las dos cifras grandes son del MISMO tamaño; solo cambia el color.
 
 BANDA 3 (el par mercado vs PiSA, ~28%): arriba, en negrita navy #0F2845 pequeño: "El mercado cae; PiSA casi plano". Debajo, DOS recuadros KPI lado a lado (mitad y mitad), SIN gráficas de barras y SIN ninguna línea, llave o conector entre ellos:
 - Recuadro izquierdo: arriba, en MAYÚSCULAS gris #5A6679 muy pequeño: "MERCADO · INEFAM GENÉRICOS GOBIERNO · VALOR · ENE-MAY-26"; al centro, en negrita gris #5A6679 grande: "−3.8%".
-- Recuadro derecho: arriba, en MAYÚSCULAS gris #5A6679 muy pequeño: "PISA · SELL-IN GOB FC · 1S26 VS 1S25"; al centro, en negrita navy #0F2845 grande: "−0.6%".
+- Recuadro derecho: arriba, en MAYÚSCULAS gris #5A6679 muy pequeño: "PiSA · SELL-IN GOB FC · 1S26 VS 1S25" (la marca se escribe "PiSA" exactamente así); al centro, en negrita navy #0F2845 grande: "−0.6%".
 Debajo de ambos recuadros, una sola línea en gris #5A6679 pequeña: "Universos distintos, mismo signo: INEFAM mide genéricos de gobierno en valor (ene-may); PiSA es sell-in de Gob FC del 1S. El par se lee lado a lado, no se divide."
 
 BANDA 4 (pie, ~14%): línea divisoria fina gris #E5E9EE; debajo, a la izquierda en itálica gris #8A95A8 chica: "Fuente: research externo con fuente pública, jul-26 (consolidada anulada: La Silla Rota / Forbes / El Financiero; adeudos: Expansión / El Informador); mercado: INEFAM genéricos gobierno, valor, ene-may-26; PiSA: Sell-In cierre jun-26, Gob FC 1S26 vs 1S25. Universos declarados por tile; no comparables uno a uno"; alineado a la derecha: "PiSA Confidencial | 10".
