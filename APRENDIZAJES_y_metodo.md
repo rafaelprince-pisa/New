@@ -106,3 +106,27 @@ Referencia madre: `HANDOFF_storyline_consejo_27jul_2026-07-10_0725.md` §7 (cuat
 - **La cifra curada del dueño supersede a la fuente intermedia** (tablas PIN/VP de Rafael vs niveles DP), pero los deltas se flagean, no se esconden.
 - **Auditar la aritmética CRUZADA entre láminas** (no solo dentro de cada una) es lo que salva frente a una familia que recalcula: hueco, VP total vs partes, 429×meses vs sell-in.
 - **El PPT de revisión se organiza como el dueño piensa** (por momentos, índice primero) — la estructura de revisión es parte del producto.
+
+---
+
+## Sesión 17-jul-2026 (NUBE · paso 6: las 38 specs v7)
+
+### 1. Arquitectura nube que funcionó
+
+- **El espejo Git como fuente de la sesión de nube** (decisión 16-jul noche) funcionó completo: corpus de 81 archivos subido desde local a `main`, la nube escribió SOLO en `storyboard_v3_specs_AQUI_ESCRIBE_LA_NUBE/` y regresó por commit+push en rama + PR; local jala `main` tras el merge. Checkpoints intermedios (30/38, 38/38, tandas de fixes) protegieron contra el contenedor efímero.
+- **Pipeline: 13 escritores paralelos (archivos disjuntos) → 9 auditores → 6 agentes de fix (disjuntos) → barrido final del orquestador.** Escritores con contrato común (formato v2, caveats, kill-list, jerarquía de fuentes) + encargo específico por grupo con las cifras canónicas EN el prompt. Los reportes estructurados por lámina (cifra | fuente, placeholders, flags) hicieron el triaje casi mecánico.
+- **La jerarquía de fuentes declarada en el prompt evita promedios silenciosos:** los escritores flagearon conflictos en vez de resolverlos (ej. abril −13.6% PROPUESTA vs −13.8% síntesis: ganó el EXTRACT con −13.6%; un +8.4% de NC GobFC en nota interna se corrigió a +8.5% contra el Gross2Net en el fix).
+
+### 2. Lo que se rompió y cómo se rescató (repetir el patrón)
+
+- **El límite de uso de sesión mata agentes en silencio:** el runner del workflow se congeló 47 min (transcripts sin crecer) y el resume falló 12 agentes con "session limit · resets HH:MM". Regla: ante congelamiento, mirar mtime de transcripts; ante error de límite, LEER la hora de reset del mensaje y programar el resume para justo después (send_later), no reintentar a ciegas.
+- **El resume del workflow reutiliza TODO lo completado de caché** (mismo prompt+opts = mismo resultado, 0 tokens): dos resumes re-usaron los 10 grupos escritos; solo re-corrió lo pendiente. Los checkpoints de commit + el journal.jsonl hacen el estado auditable.
+- **El clasificador de seguridad caído bloquea toda herramienta de escritura** (Bash/Edit/send_later) pero no las de lectura: el triaje siguió con Grep quirúrgico sobre journal.jsonl. Truco: las comillas escapadas del JSON rompen `[^"]*`; usar `(?:[^"\\]|\\.){0,N}` y patrones cortos (las líneas largas se omiten en el display).
+- **Este contenedor corre 2 agentes a la vez** (cap por cores): el paralelismo real es por oleadas; presupuestar reloj en consecuencia (~3.5 h el paso 6 completo con incidentes incluidos).
+
+### 3. Lecciones de calidad del contenido
+
+- **Cuadres exactos ≠ deck listo.** La auditoría no encontró UNA cifra rota contra las fuentes; lo que cayó fue citación y estado interno en tinta: un "riesgo gestionado; fragilidad mañana" impreso (L17), un subtítulo que generalizaba universos ("a nivel PiSA" sobre pares que excluyen gobierno, L06), un candidato por planchar impreso como cifra (~$859M, L27), proporciones de dibujo válidas solo para un año (L06). Los lentes separados (kill-list, cuadres, coherencia cross, deep-read) capturan clases de error distintas: mantenerlos.
+- **La partición por archivos de los fix agents deja huecos en fixes TRANSVERSALES:** el casing PISA→PiSA se repartió por archivo y dos instancias (L05, L10) quedaron fuera de todos los encargos. Regla: los fixes transversales necesitan un dueño POR REGLA (o un barrido final del orquestador — el sweep python de flechas/emojis/pies/casing sobre los 38 archivos cerró el hueco en segundos). Nunca declarar "resuelto" sin el barrido.
+- **Decisiones de orquestador se documentan donde el dueño las va a leer** (00_INDEX.md §Decisiones + PR): lo no aprobado verbatim por Rafael (redacción del objetivo 2 de L01, bandas cortadas, gold movido) viaja marcado "validar", no escondido en el diff.
+
